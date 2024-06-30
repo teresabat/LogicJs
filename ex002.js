@@ -1,4 +1,8 @@
 let pokemon = ["pikachu", "charmander", "bulbasaur"]
 
-pokemon.
-console.log(pokemon[0])
+// ler a documentação do javascript
+
+// remove o ultimo elemento de um array
+pokemon.pop()
+// posição dentro dos valores da variavel []
+console.log(pokemon)
